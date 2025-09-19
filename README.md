@@ -7,7 +7,6 @@ This repository is my personal collection of study notes for the **DAMA Framewor
 - Each file in the repo represents a specific section or topic from the DAMA Framework.
 - Files are written in **Markdown** for easy readability and formatting.
 - I’ll update the repo regularly as I study new topics, adding new files or updating existing ones.
-- The notes are written in simple English to make them clear for revision.
 
 ## Current Files
 - `intro.md`: Introduction to data, types of data, data management basics, and the DAMA Framework overview.
