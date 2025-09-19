@@ -10,6 +10,7 @@ This repository is my personal collection of study notes for the **DAMA Framewor
 
 ## Current Files
 - `intro.md`: Introduction to data, types of data, data management basics, and the DAMA Framework overview.
+- `Data Governance.md`
 
 ## How to Use
 - Check the files in the repo to review notes on specific topics.
