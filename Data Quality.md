@@ -54,8 +54,6 @@ This file covers data quality concepts from the DAMA Framework, including defini
 
 ## Data Quality Example
 
-This file provides a practical example of data quality management using DAMA principles.
-
 ### Scenario
 You’re a data quality manager at "Smart Electronics," an online retailer. Customer data (names, phones, addresses, sales) is poor:
 - Duplicated customers (e.g., "Mohamed" and "Mohammed" as separate entries).
